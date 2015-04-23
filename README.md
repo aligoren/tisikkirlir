@@ -10,13 +10,13 @@ Tisikkirlir.java, Jar haline getirildi. Projenize ekleyebilirsiniz.
 Tisikkirlir tsk = new Tisikkirklir();
 ~~~~
 
-Yeni bir sınıf halinde türettikten sonra şöyle kullanılabilir.
+Yeni bir sÃ½nÃ½f halinde tÃ¼rettikten sonra Ã¾Ã¶yle kullanÃ½labilir.
 
-## Kullanımı
+## KullanÄ±mÄ±
 
 ~~~~{.java}
-tsk.tisikkirlir("Bi Star ATsana Canısı");
-// Output: Bi Stir İTsini Cinisi
+tsk.tisikkirlir("Bi Star ATsana CanÄ±sÄ±");
+// Output: Bi Stir Ä°Tsini Cinisi
 ~~~~
 
 ## Uyarlamalar
@@ -33,7 +33,7 @@ tsk.tisikkirlir("Bi Star ATsana Canısı");
  - Python3
   - [tisikkirlir](https://github.com/oguzhantasci/tisikkirlir)
  - Ruby
-	{tisikkirlir] (https://github.com/askn/tisikkirlir)
+  - [tisikkirlir] (https://github.com/askn/tisikkirlir)
  - Scala
   - [tisikkirlir](https://github.com/mehmetakiftutuncu/tisikkirlir)
  - Zephir (PHP Extension)
