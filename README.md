@@ -10,7 +10,7 @@ Tisikkirlir.java, Jar haline getirildi. Projenize ekleyebilirsiniz.
 Tisikkirlir tsk = new Tisikkirklir();
 ~~~~
 
-Yeni bir sýnýf halinde türettikten sonra þöyle kullanýlabilir.
+Yeni bir sınıf halinde türettikten sonra böyle kullanılabilir.
 
 ## Kullanımı
 
