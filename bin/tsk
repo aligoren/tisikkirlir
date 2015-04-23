@@ -1,4 +1,0 @@
-#!/usr/bin/env ruby
-require 'tisikkirlir'
-
-puts ARGV.join(' ').tsk

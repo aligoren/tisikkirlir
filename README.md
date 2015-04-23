@@ -4,33 +4,20 @@
 
 ## Kurulum
 
-Gemfile'a ekleyerek
+Tisikkirlir.java, Jar haline getirildi. Projenize ekleyebilirsiniz.
 
-```ruby
-gem 'tisikkirlir'
-```
+~~~~{.java}
+Tisikkirlir tsk = new Tisikkirklir();
+~~~~
 
-Ekledikten sonra
+Yeni bir sınıf halinde türettikten sonra şöyle kullanılabilir.
 
-    bundle
+## Kullanımı
 
-veya
-
-    $ gem install tisikkirlir
-
-## KullanÄ±mÄ±
-
-```ruby
-require 'tisikkirlir'
-
-"Bi Star ATsana CanÄ±sÄ±".tsk
-# "Bi Stir Ä°Tsini Cinisi"
-```
-
-veya komut satÄ±rÄ±ndan
-
-    $ tsk Bi Star ATsana CanÄ±sÄ±
-    Bi Stir Ä°Tsini Cinisi
+~~~~{.java}
+tsk.tisikkirlir("Bi Star ATsana Canısı");
+// Output: Bi Stir İTsini Cinisi
+~~~~
 
 ## Uyarlamalar
 
@@ -45,6 +32,8 @@ veya komut satÄ±rÄ±ndan
   - [tisikkirlir](https://github.com/smtaydemir/tisikkirlir)
  - Python3
   - [tisikkirlir](https://github.com/oguzhantasci/tisikkirlir)
+ - Ruby
+	{tisikkirlir] (https://github.com/askn/tisikkirlir)
  - Scala
   - [tisikkirlir](https://github.com/mehmetakiftutuncu/tisikkirlir)
  - Zephir (PHP Extension)
@@ -52,7 +41,7 @@ veya komut satÄ±rÄ±ndan
 
 ## Contributing
 
-1. Fork it ( https://github.com/askn/tisikkirlir/fork )
+1. Fork it ( https://github.com/aligoren/tisikkirlir/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
