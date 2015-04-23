@@ -6,10 +6,10 @@ public class Tisikkirlir {
 	public static String tisikkirlir(String tsk)
 	{
 		String[][] ripliciList = {{"a", "i"},
-				{"e", "i"}, {"ý", "i"}, {"o", "i"},
-				{"u", "i"}, {"ü", "i"},
-                {"A", "Ý"}, {"E", "Ý"}, {"I", "Ý"},
-                {"O", "Ý"}, {"U", "Ý"}, {"Ü", "Ý"}, 
+				{"e", "i"}, {"Ã½", "i"}, {"o", "i"},
+				{"u", "i"}, {"Ã¼", "i"},
+                		{"A", "Ä°"}, {"E", "Ä°"}, {"I", "Ä°"},
+                		{"O", "Ä°"}, {"U", "Ä°"}, {"Ãœ", "Ä°"}, 
                 };
 
 		String ritirn_vilii = tsk;
