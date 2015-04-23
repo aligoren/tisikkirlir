@@ -6,7 +6,7 @@ public class Tisikkirlir {
 	public static String tisikkirlir(String tsk)
 	{
 		String[][] ripliciList = {{"a", "i"},
-				{"e", "i"}, {"ý", "i"}, {"o", "i"},
+				{"e", "i"}, {"ı", "i"}, {"o", "i"},
 				{"u", "i"}, {"ü", "i"},
                 		{"A", "İ"}, {"E", "İ"}, {"I", "İ"},
                 		{"O", "İ"}, {"U", "İ"}, {"Ü", "İ"}, 
